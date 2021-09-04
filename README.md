@@ -1,1 +1,1 @@
-前端学习-PC端-小米官网：https://www.shanyingwufeng.com/mi
+前端学习-PC端-小米官网：https://github.shanyingwufeng.com/mi
